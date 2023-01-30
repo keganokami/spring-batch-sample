@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SampleApplication<sample>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "console": "internalConsole",
+      "mainClass": "com.batch.sample.SampleApplication",
+      "projectName": "sample",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
